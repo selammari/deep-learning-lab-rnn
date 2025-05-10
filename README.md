@@ -82,5 +82,6 @@ python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate sous Windows
 
 
-[Voir la vidéo explicative]https://drive.google.com/file/d/1ULthKPbOutVzxy-IZ7us0AocKTupBYXa/view?usp=drive_link
+[Voir la vidéo explicative]
+(https://drive.google.com/file/d/1ULthKPbOutVzxy-IZ7us0AocKTupBYXa/view?usp=drive_link)
 
